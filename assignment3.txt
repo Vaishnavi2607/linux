@@ -1,0 +1,49 @@
+cd /home/nayana/family/
+rm film*.avi
+ls
+rm song*.mp3
+rm snap*.mp3
+rm snap*.jpg
+ls
+cd
+rmdir friend
+cd /home/nayana/friend
+  rm *
+ls
+  cd
+ rmdir friend
+  ls
+ addgroup dac
+sudo addgroup dac
+  sudo addgroup dbda
+ sudo addgroup ditiss
+  sudo adduser tom
+exit
+cat /etc/group
+sudo adduser bob 
+sudo adduser sam
+sudo adduser prince
+sudo adduser tom --gid 1005
+man deluser
+sudo deluser tom
+sudo deluser bob
+sudo deluser sam
+sudo deluser prince
+sudo adduser tom --gid 1005
+sudo adduser bob --gid 1006
+sudo adduser sam --gid 1007
+cat/etc/group
+cat /etc/group
+cat /etc/passwd
+whoami
+adduser prince
+sudo adduser prince
+su prince
+sudo chown tom project1.txt
+sudo usermod prince -G sudo
+cat /etc/group
+su prince
+cd
+sudo chgrp dac project2.txt
+ls -l
+
